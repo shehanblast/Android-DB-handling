@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DBHandlingTut</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnSign">SIGN IN</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="editUser">name</string>
+    <string name="btn">View</string>
+</resources>
